@@ -2,11 +2,7 @@
 
 This repository includes the code with trained models in the following paper:
 
-"Scalable Learned Image Compression With A Recurrent Neural Networks-Based Hyperprior," 2020 IEEE International Conference on Image Processing (
-
-[ICIP]: (https://ieeexplore.ieee.org/abstract/document/9190704)
-
-)
+"Scalable Learned Image Compression With A Recurrent Neural Networks-Based Hyperprior," 2020 IEEE International Conference on Image Processing(ICIP)
 
 Rige Su, Zhengxue Cheng, Heming Sun, Jiro Katto
 
