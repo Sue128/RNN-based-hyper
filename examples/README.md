@@ -47,7 +47,11 @@ python rnn.py --batchsize 1 decompress compressed.bin xxx.png
 
 # Reconstructed Samples
 
+Comparison images
+
 ![image-20210411220145289](C:\Users\kangs\AppData\Roaming\Typora\typora-user-images\image-20210411220145289.png)
+
+
 
 # Evaluation Results
 
