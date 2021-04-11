@@ -41,16 +41,6 @@ python rnn.py --batchsize 1 compress xxx.png compressed.bin
 python rnn.py --batchsize 1 decompress compressed.bin xxx.png
 ```
 
-# Reconstructed Samples
-
-![image-20210411220145289](C:\Users\kangs\AppData\Roaming\Typora\typora-user-images\image-20210411220145289.png)
-
-
-
-# Evaluation Results
-
-![image-20210411220215502](C:\Users\kangs\AppData\Roaming\Typora\typora-user-images\image-20210411220215502.png)
-
 # Notes
 
 If you think it is useful for your reseach, please cite our ICIP2020 paper. Our original RD data in the paper is contained in the folder RD/.
