@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c9acfb37-5c94-4170-a284-d96b428f89b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/bug_report.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE/feature_request.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compression-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BUILD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CONTRIBUTING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MANIFEST.in" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/WORKSPACE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build_pip_pkg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/index.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/EntropyBottleneck.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/EntropyModel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/GDN.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/GaussianConditional.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/IdentityInitializer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/LaplacianConditional.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/LogisticConditional.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/NonnegativeParameterizer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/PackedTensors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/Parameterizer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/RDFTParameterizer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/SignalConv1D.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/SignalConv2D.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/SignalConv3D.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/StaticParameterizer.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/SymmetricConditional.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/irdft_matrix.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/lower_bound.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/pmf_to_quantized_cdf.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python/layers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python/layers/entropy_models.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python/layers/gdn.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python/layers/initializers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python/layers/parameterizers.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python/layers/signal_conv.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python/ops.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python/ops/math_ops.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python/ops/padding_ops.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python/ops/range_coding_ops.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python/ops/spectral_ops.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python/util.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/python/util/packed_tensors.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/range_decode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/range_encode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/same_padding_for_kernel.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/unbounded_index_range_decode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/unbounded_index_range_encode.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/api_docs/python/tfc/upper_bound.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/entropy_bottleneck.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docs/range_coding.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/rnn_iter4/dec.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/rnn_iter4/enc.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/rnn_iter4/msssim.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/examples/rnn_iter4/rnn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/cc/BUILD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/cc/kernels/range_coder.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/cc/kernels/range_coder.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/cc/kernels/range_coder_test.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/cc/kernels/range_coding_helper_kernels.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/cc/kernels/range_coding_helper_kernels_test.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/cc/kernels/range_coding_kernels.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/cc/kernels/range_coding_kernels_test.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/cc/kernels/range_coding_kernels_util.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/cc/kernels/range_coding_kernels_util.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/cc/kernels/unbounded_index_range_coding_kernels.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/cc/kernels/unbounded_index_range_coding_kernels_test.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/cc/ops/range_coding_ops.cc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/all_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/layers/BUILD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/layers/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/layers/entropy_models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/layers/entropy_models_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/layers/gdn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/layers/gdn_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/layers/initializers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/layers/parameterizers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/layers/parameterizers_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/layers/signal_conv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/layers/signal_conv_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/ops/BUILD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/ops/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/ops/math_ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/ops/math_ops_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/ops/namespace_helper.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/ops/padding_ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/ops/padding_ops_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/ops/range_coding_ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/ops/range_coding_ops_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/ops/spectral_ops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/ops/spectral_ops_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/util/BUILD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/util/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/util/packed_tensors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tensorflow_compression/python/util/packed_tensors_test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tools/generate_docs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/workspace.bzl" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/compression-master.iml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1026" />
+    <option name="y" value="56" />
+    <option name="width" value="807" />
+    <option name="height" value="959" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="compression-master" type="b2602c69:ProjectViewProjectNode" />
+              <item name="compression-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c9acfb37-5c94-4170-a284-d96b428f89b8" name="Default Changelist" comment="" />
+      <created>1618122195048</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1618122195048</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first">
+      <created>1618122790483</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1618122790483</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1026" y="56" width="807" height="959" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.64524764" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.36848485" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.329718" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Maven" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+    </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/examples/rnn_iter4/rnn1.py" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
